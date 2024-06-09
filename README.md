@@ -1,7 +1,19 @@
 # n-days-of-training
 This is the repository where I start tracking my learning.
 
-Like all people, I have a problem with procrastination, but I have big knowledge desires. That is Why I want to write what I'm interested in and what i do each day. 
+Like all people, I have a problem with procrastination, but I have big knowledge desires. That is Why I want to write what I'm interested in and what I do each day. 
+
+Languages:
+- Rust
+- Go
+- Python
+- Lua
+- Ansible
+
+Technologies:
+- Podman
+- Kubernetes
+- FreeIpa
 
 All products that I will create will be put on git. Rules I will define later, but it is based on 100codechallenage.
 
