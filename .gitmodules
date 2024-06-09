@@ -1,0 +1,3 @@
+[submodule "projects/todo_rust"]
+	path = projects/todo_rust
+	url = https://github.com/DawidAdamski/todo_rust
